@@ -31,15 +31,9 @@ This repository demonstrates the application of **Genetic Algorithms (GA)** and 
 
 1. **Run the Notebook**  
    Open the Jupyter Notebook (`Genetic and ant colony Algorithm.ipynb`) to explore the implementations of GA and ACO.
-
-2. **Configure Parameters**  
-   Modify `genetic_algorithm_routes.json` and `antcolony_algorithm_routes.json` to customize routes and parameters.
-
-3. **Analyze Methodologies**  
-   Refer to `methodology_ga` and `methodology_aco` for insights into the algorithms' theoretical and practical aspects.
-
-4. **Data Input**  
-   Use `su_data_file` for node coordinates in optimization scenarios.
+   
+2. **Data Input**  
+   Use `sub_data_file` for node coordinates in optimization scenarios.
 
 ---
 
